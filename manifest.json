@@ -1,0 +1,9 @@
+{
+  "name": "LCItemValue",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/DeathGOD7/LCItemValue",
+  "description": "A mod to show the value of handheld items by player. ",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
